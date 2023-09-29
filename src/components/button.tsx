@@ -7,6 +7,10 @@ export default function Button(props: IButton) {
 
   return (
     <button
+      onClick={() => {
+        console.log("he");
+        return 1;
+      }}
       className={
         buttonClasses +
         "bg-blue-500 hover:bg-blue-700 text-white font-bold flex justify-center items-center rounded"

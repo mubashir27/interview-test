@@ -51,6 +51,10 @@ export const CARD_DATA = [
 
 export const SLIDER_IMAGES = [
   "/slider-image-1.png",
+  "/slider-image-1.png",
+  "/slider-image-3.png",
+  "/slider-image-4.png",
+  "/slider-image-2.png",
   "/slider-image-2.png",
   "/slider-image-3.png",
   "/slider-image-4.png",
@@ -58,8 +62,5 @@ export const SLIDER_IMAGES = [
   "/slider-image-2.png",
   "/slider-image-3.png",
   "/slider-image-4.png",
-  "/slider-image-1.png",
-  "/slider-image-2.png",
-  "/slider-image-3.png",
   "/slider-image-4.png",
 ];

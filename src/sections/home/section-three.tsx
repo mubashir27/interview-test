@@ -1,5 +1,5 @@
 import { MaxWidth, SectionHeader } from "@/src/components";
-// import Slider from "@/src/layouts/Slider";
+import Slider from "@/src/layouts/slider";
 
 export default function SectionThree() {
   return (
@@ -13,7 +13,7 @@ export default function SectionThree() {
         />
         {/* Slider */}
         {/* multiple images side arrows bottom buttons */}
-        {/* <Slider /> */}
+        <Slider />
       </MaxWidth>
     </div>
   );
