@@ -4,6 +4,10 @@ export interface IChildren {
 export interface IButton extends IChildren {
   isLarge?: boolean;
 }
+
+export interface IClick extends IChildren {
+  onClick?: void;
+}
 // header nav interface
 export interface IHeaderNav {
   text: string;
@@ -26,4 +30,10 @@ export interface ICard {
 }
 export interface ILogo {
   footer?: boolean;
+}
+export interface ISectionHeader {
+  introText: string;
+  heading: string;
+  content: string;
+  section: number;
 }

@@ -21,6 +21,7 @@ const config: Config = {
         "red-light": "#FDE6EE",
         "gray-light-shade": "#F9FAFB",
         "black-mode": "#404258",
+        yellow: "#FFC700D9",
       },
     },
   },

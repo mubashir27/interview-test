@@ -1,7 +1,7 @@
 import { NAV_PAGES } from "../_mock/constant-data";
 import { Button, Logo, MaxWidth } from "../components";
 import { RightFilledArrow } from "../images";
-import { NavPages } from "../pages";
+import NavPages from "../pages/NavPages";
 
 export default function Header() {
   // CONSTANT
