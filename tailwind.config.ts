@@ -19,6 +19,8 @@ const config: Config = {
         "gray-light": "#6E7CA0",
         red: "#E9004F",
         "red-light": "#FDE6EE",
+        "gray-light-shade": "#F9FAFB",
+        "black-mode": "#404258",
       },
     },
   },

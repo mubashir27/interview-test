@@ -1,6 +1,6 @@
 import { FOOTER_LEFT, FOOTER_RIGHT } from "../_mock/constant-data";
 import { Logo, MaxWidth } from "../components";
-import FooterSection from "../sections/home/FooterSection";
+import { FooterSection } from "../sections";
 
 export default function Footer() {
   return (

@@ -1,6 +1,6 @@
 import { NAV_PAGES } from "../_mock/constant-data";
 import { Button, Logo, MaxWidth } from "../components";
-import { Ic_Right_Arrow } from "../images";
+import { RightFilledArrow } from "../images";
 import { NavPages } from "../pages";
 
 export default function Header() {
@@ -26,7 +26,7 @@ export default function Header() {
         </div>
         <div className="flex">
           <Button>
-            <p>Lets Talk</p> <Ic_Right_Arrow />{" "}
+            <p>Lets Talk</p> <RightFilledArrow icon_color="white" />{" "}
           </Button>
         </div>
       </div>

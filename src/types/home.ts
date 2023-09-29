@@ -17,6 +17,13 @@ export interface IFooter {
 export interface ISvg {
   icon_color?: string;
 }
+
+export interface ICard {
+  heading: string;
+  subHeading: string;
+  content: string;
+  linkText: string;
+}
 export interface ILogo {
   footer?: boolean;
 }

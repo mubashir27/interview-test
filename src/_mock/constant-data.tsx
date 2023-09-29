@@ -24,3 +24,27 @@ export const FOOTER_RIGHT = {
   ],
   BOTTOM: ["Terms & Conditions", "Privacy Policy"],
 };
+
+export const CARD_DATA = [
+  {
+    heading: "01",
+    subHeading: "Influencer Marketing",
+    content:
+      "We have the right knowledge, tools, and expertise to help your company succeed in influencer marketing campaigns.",
+    linkText: "LEARN MORE",
+  },
+  {
+    heading: "02",
+    subHeading: "Talent Management",
+    content:
+      "We can help turn your dreams into a long-term, full-time career, filled with endless opportunities that will provide you with a lucrative income and stability.",
+    linkText: "LEARN MORE",
+  },
+  {
+    heading: "03",
+    subHeading: "Celebrity Collaboration",
+    content:
+      "We are an authentic Celebrity Influencer Marketing agency specialise in matching brands with the Arab world’s top influencers and celebrities.",
+    linkText: "LEARN MORE",
+  },
+];
